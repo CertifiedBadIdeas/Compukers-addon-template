@@ -30,7 +30,7 @@ The download cache is separated by product version and archive hash. Set `compuk
 from the release's `checksums.sha256` to pin that identity in your repository. Use `--offline` only after the SDK and
 the remaining dependencies have been downloaded. A missing or invalid SDK fails the build; it never switches to sources.
 
-**Availability:** 0.6.0 is the first planned release containing this archive. Until it is published, use the local
+**Availability:** 0.5.1 is the first planned release containing this archive. Until it is published, use the local
 development steps below. The existing 0.5.0 release does not contain a downloadable SDK.
 
 The verified production JAR is under `build/libs/`. Install it alongside the matching Compukters mod; the template
