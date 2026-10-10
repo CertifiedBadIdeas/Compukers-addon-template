@@ -1,0 +1,6 @@
+format = 1
+name = "addon-hello"
+
+[modules]
+example = { api = 1 }
+std = { terminal = 1 }
